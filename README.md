@@ -10,7 +10,7 @@
 
 ### **ပါဝင်သော အဓိက အကြောင်းအရာများ**
 * **Simulation အမျိုးအစားများ:** Analog simulation (ဥပမာ - DC, AC, Transient analysis)၊ [cite_start]Digital simulation နှင့် Mixed-signal simulation များအကြောင်း ပါဝင်ပါတယ် [cite: 3]။
-* [cite_start]**Circuit Elements နှင့် Models:** Resistors, Capacitors, Diodes, Transistors (BJT), MOSFETs နှင့် အခြား electronic components များအကြောင်းကို အသေးစိတ် ဖော်ပြထားပါတယ် [cite: 5, 12]။
-* [cite_start]**အသုံးပြုပုံစံများ:** Netlist ဖိုင်များကို အသုံးပြု၍ simulator ကို batch mode (အမိန့်စာကြောင်းဖြင့် ခိုင်းစေခြင်း)၊ interactive mode (အပြန်အလှန် အမိန့်ပေးခြင်း) သို့မဟုတ် control mode များဖြင့် မည်သို့ အသုံးပြုရမည်ကို ရှင်းပြထားပါတယ် [cite: 4, 9]။
-* [cite_start]**စနစ်များ:** Windows, Linux နှင့် macOS တို့တွင် တပ်ဆင် အသုံးပြုပုံများကို ဖော်ပြထားပါတယ် [cite: 9]။
-* [cite_start]**လိုင်စင် (License):** ဤလက်စွဲစာအုပ်ကို Creative Commons Attribution Share-Alike (CC-BY-SA) v4.0 လိုင်စင်ဖြင့် ထုတ်ဝေထားပါတယ် [cite: 38]။
+* **Circuit Elements နှင့် Models:** Resistors, Capacitors, Diodes, Transistors (BJT), MOSFETs နှင့် အခြား electronic components များအကြောင်းကို အသေးစိတ် ဖော်ပြထားပါတယ် [cite: 5, 12]။
+* **အသုံးပြုပုံစံများ:** Netlist ဖိုင်များကို အသုံးပြု၍ simulator ကို batch mode (အမိန့်စာကြောင်းဖြင့် ခိုင်းစေခြင်း)၊ interactive mode (အပြန်အလှန် အမိန့်ပေးခြင်း) သို့မဟုတ် control mode များဖြင့် မည်သို့ အသုံးပြုရမည်ကို ရှင်းပြထားပါတယ် [cite: 4, 9]။
+* **စနစ်များ:** Windows, Linux နှင့် macOS တို့တွင် တပ်ဆင် အသုံးပြုပုံများကို ဖော်ပြထားပါတယ် [cite: 9]။
+* **လိုင်စင် (License):** ဤလက်စွဲစာအုပ်ကို Creative Commons Attribution Share-Alike (CC-BY-SA) v4.0 လိုင်စင်ဖြင့် ထုတ်ဝေထားပါတယ် [cite: 38]။
